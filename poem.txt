@@ -3,4 +3,4 @@ I didnt give a shit
 I just took the fastest route in gmaps
 Oh this is one edit I made
 Oh and this is the edit I made in the second_branch
-And this is another line to see if it merges with master
+And this is another line to see if it merges with master.
